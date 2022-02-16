@@ -58,7 +58,8 @@ if (temperature < -40 || temperature > 40) {
   }*/
 
 // Example 6
-const raining = true
+/*const raining = true
 if (!raining) {
     console.log("Leave your umbrella at home!");
   }
+*/
