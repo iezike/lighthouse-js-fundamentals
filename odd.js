@@ -1,6 +1,6 @@
 function isOdd(number){
   var result = false
-  if(number % 2 !== 0){
+  if(number % 2 === 1){
     result = true
   } else{
     result = false
@@ -8,4 +8,4 @@ function isOdd(number){
   return result;
 }
 
-console.log(isOdd(7));
+console.log(isOdd(10));
